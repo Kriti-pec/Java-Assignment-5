@@ -1,0 +1,4 @@
+the given code in the question will give compilation error. 
+1. because of : instead of ; n line 10 of Myclass2.java file 
+2. the return type should be void instead of Void in line 8. Java is case sensitive. 
+if both the issues are resolved, then the code will give 24 as the output. 
